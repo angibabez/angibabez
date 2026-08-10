@@ -23,9 +23,7 @@ By day, I work on AI product design. The rest of the time I'm usually prototypin
 
 ### ✦ what i do
 
-- I've spent 11+ years at Google designing products and leading design teams, most recently working on Gemini Enterprise.
-- Before that, I worked on AI agent-building and conversational systems, focusing on developer tools and agentic systems.
-- I’ve also designed and built live AI demos that blend product design, storytelling, and code.
+- I've spent 12+ years at Google designing products and leading design teams, most recently working on Gemini Enterprise.
 - My background is in design and technology at NYU ITP, which probably explains a lot.
 
 ---
