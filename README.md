@@ -1,6 +1,6 @@
 # hi, i'm andrea 👋
 
-**designer, creative coder & internet person**
+**designer, creative coder & big internet fan**
 
 I design AI products and make things with code. A lot of my work is about figuring out how new technology should actually feel to use, especially when the technology itself is weird, complex, or still being invented.
 
