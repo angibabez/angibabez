@@ -1,4 +1,4 @@
-# angibabez (Andrea Dulko)
+# Andrea Dulko
 
 > 🐱 **GitHub:** [@angibabez](https://github.com/angibabez)  
 > 💼 **LinkedIn:** [linkedin.com/in/adulko](https://www.linkedin.com/in/adulko/)  
