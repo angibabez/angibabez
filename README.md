@@ -1,6 +1,6 @@
 # Andrea Dulko 👋
 
-> **Design Manager & Creative Coder @ Google**  
+> **Design Manager & Creative Coder **  
 > *Designing intelligent AI systems by day • Building interactive code & creative tools by night.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adulko)
