@@ -33,6 +33,5 @@ I build at the boundary where **complex AI systems meet human intuition**. With 
 ---
 
 <p align="center">
-  <i>“Code is my material; design is the intent.”</i><br>
-  <sub>Open to conversations about AI UX patterns, generative design tooling, and the future of creator software.</sub>
+  <sub>Always open to conversations about AI UX patterns, generative design tooling, and the future of creator software.</sub>
 </p>
